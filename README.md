@@ -1,3 +1,28 @@
+# React ToDo App (Version 1)
+
+A simple and responsive **ToDo application** built using **React**. This project is designed for practicing core React concepts like:
+- Component-based architecture
+- State management using `useState`
+- Props passing
+- Conditional rendering
+- CSS Modules for styling
+
+---
+
+## 🚀 Features
+
+- ✅ Add new ToDo items with a name and due date
+- 🗑️ Delete existing ToDo items
+- 🧾 Shows a welcome message when the list is empty
+- 📦 Organized using modular components and CSS modules
+
+---
+
+## 🛠 Folder Structure
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
